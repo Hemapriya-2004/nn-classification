@@ -14,7 +14,7 @@ You are required to help the manager to predict the right group of the new custo
 
 ## Neural Network Model
 
-Include the neural network model diagram.
+![output](https://github.com/Hemapriya-2004/nn-classification/blob/main/d1.png)
 
 ## DESIGN STEPS
 
@@ -210,21 +210,25 @@ print(le.inverse_transform(x_single_prediction))
 ```
 Include screenshot of the dataset
 
+![output](https://github.com/Hemapriya-2004/nn-classification/blob/main/d2.png)
 
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-
+![output](https://github.com/Hemapriya-2004/nn-classification/blob/main/d3.png)
 
 ### Classification Report
 
+![output](https://github.com/Hemapriya-2004/nn-classification/blob/main/d4.png)
 
 ### Confusion Matrix
 
+![output](https://github.com/Hemapriya-2004/nn-classification/blob/main/d5.png)v
 
 ### New Sample Data Prediction
 
+![output](https://github.com/Hemapriya-2004/nn-classification/blob/main/d6.png)
 
 
 ## RESULT
