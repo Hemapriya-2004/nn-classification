@@ -224,7 +224,7 @@ print(le.inverse_transform(x_single_prediction))
 
 ### Confusion Matrix
 
-![output](https://github.com/Hemapriya-2004/nn-classification/blob/main/d5.png)v
+![output](https://github.com/Hemapriya-2004/nn-classification/blob/main/d5.png)
 
 ### New Sample Data Prediction
 
