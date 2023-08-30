@@ -208,7 +208,7 @@ print(x_single_prediction)
 print(le.inverse_transform(x_single_prediction))
 ## Dataset Information
 ```
-Include screenshot of the dataset
+### dataset information
 
 ![output](https://github.com/Hemapriya-2004/nn-classification/blob/main/d2.png)
 
